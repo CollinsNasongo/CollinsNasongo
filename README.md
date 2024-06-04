@@ -24,7 +24,7 @@
 
 - **Data Pipeline Development**: Expertise in designing and implementing robust data pipelines.
 - **Big Data Technologies**: Proficient in managing and analyzing large datasets using Hadoop and Spark.
-- **Data Warehousing**: Skilled in creating and maintaining data warehouses using Redshift and BigQuery.
+- **Data Warehousing**: Skilled in creating and maintaining data warehouses.
 - **ETL Processes**: Strong experience in ETL process design and automation.
 - **Data Modeling**: Experienced in data modeling and database schema design.
 - **Cloud Computing**: Extensive experience with cloud platforms including Azure and GCP.
