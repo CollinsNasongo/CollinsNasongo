@@ -33,10 +33,10 @@
 
 ### 📈 Featured Projects
 
-1. **Real-time Data Processing Pipeline**
-   - **Description**: Developed a real-time data processing pipeline using Apache Kafka and Spark Streaming to process and analyze streaming data from various sources.
-   - **Technologies**: Kafka, Spark, Python, AWS S3
-   - [Repository Link](https://github.com/yourusername/real-time-data-pipeline)
+1. **REST API to get Kenya County information**
+   - **Description**: Developed a REST API to get information ralating to Kenyan counties.
+   - **Technologies**: Python, Flask, PostgresSQL, Docker
+   - [Repository Link](https://github.com/CollinsNasongo/Coundys)
 
 ---
 
